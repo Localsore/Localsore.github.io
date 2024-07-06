@@ -11,3 +11,6 @@ tfljamcams
   		<p>This page has been moved. If you are not redirected within 1 hour, click <a href="https://www.tfljamcams.net/">here</a> to go to tfljamcams.</p>
   	</body>
   </html>
+  <button<https://www.tfljamcams.net/>
+    
+  </button>
