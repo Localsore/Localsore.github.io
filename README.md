@@ -1,10 +1,9 @@
 <Localsore rect>
   <html>
     <head>
-      
-  class="button"
-       <button><tfljamcams></tfljamcams>
-         <input  URL=https://www.tfljamcams.net/" />
+   <a href="https://www.tfljamcams.net/">
+    <button>tfljamcams</button>
+</a>
        
        
   	
