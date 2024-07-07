@@ -9,8 +9,9 @@
     <button>Eaglecraft 1.8.8.</button>
 </a>
 
-    
-       
+gem "minimal-mistakes-jekyll"
+
+theme: minimal-mistakes-jekyll
        
   	
 
